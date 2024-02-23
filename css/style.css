@@ -33,3 +33,9 @@ body{
 .grid .J{
     background-color: rgb(211, 202, 17);
 }
+
+.grid .L,
+.grid .H
+{
+    background-color: red;
+}
